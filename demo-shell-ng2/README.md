@@ -8,7 +8,7 @@ Please note that this application is not an official product, but a testing and 
 To correctly use this demo check that on your machine you have [Node](https://nodejs.org/en/) version 5.x.x or higher.
 
 ```sh
-git clone https://github.com/Alfresco/alfresco-ng2-components.git
+git clone https://github.com/microstrat/alfresco-ng2-components.git
 cd alfresco-ng2-components/demo-shell-ng2/
 npm install
 ```
